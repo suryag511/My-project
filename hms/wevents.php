@@ -1,0 +1,11 @@
+<center><b>WEEKEND EVENTS:<b><br><br>
+
+UEFA CHAMPIONS LEAGE FOOTBALL MATCH<br><br>
+
+CRICKET WORLD CUP<br><br>
+
+GOOGLE CYBERSECURITY EVENTS<br><br>
+
+AMAZON AWS CLOUD EVENTS<br><br>
+
+</center>
